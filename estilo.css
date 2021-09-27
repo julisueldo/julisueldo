@@ -1,0 +1,27 @@
+body{
+    color: black;
+    background-color:rgba(0, 0, 255, 0.897);
+}
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size: x-large;
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size:x-large;
+}
+img{
+    display: block;
+    margin: auto;
+}
+a{
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 45px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-display:unset;
+    color: black;
+}
